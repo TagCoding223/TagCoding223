@@ -10,7 +10,6 @@ Welcome to my GitHub profile! Here's a little about me:
 <ul style="list-style-type: none; padding: 0;">
     <li>🔭 I’m currently working on <strong>exciting projects</strong>.</li>
     <li>💬 Ask me about <strong>coding, open-source, or anything tech-related</strong>.</li>
-    <li>📫 How to reach me: <a href="mailto:codespacev.c22.3@gmail.com" style="color: #007ACC; text-decoration: none;"></a></li>
     <li>🎓 I hold a degree in <strong>Computer Application</strong> and have a passion for solving complex problems.</li>
     <li>🌍 I love contributing to <strong>open-source projects</strong> and collaborating with developers worldwide.</li>
     <li>🧠 I enjoy exploring <strong>AI, machine learning, and cloud computing</strong> technologies.</li>
@@ -26,7 +25,7 @@ Welcome to my GitHub profile! Here's a little about me:
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
     <img width="12" />
@@ -60,7 +59,7 @@ Welcome to my GitHub profile! Here's a little about me:
 ## 📫 Connect with Me
 <div>
     <a href="https://www.linkedin.com/in/vishal-chouhan-vc223/" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
     </a>
 </div>
 
