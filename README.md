@@ -7,7 +7,7 @@ Welcome to my GitHub profile! Here's a little about me:
 ---
 
 ## 🚀 About Me
-<ul style="list-style-type: none; padding: 0;">
+<ul style="list-style-type: none; padding: 0; margin: 0;">
     <li>🔭 I’m currently working on <strong>prepare-online-exam project</strong>.</li>
     <li>💬 Ask me about <strong>coding, open-source, or anything tech-related</strong>.</li>
     <li>🎓 I hold a degree in <strong>Computer Application</strong> and have a passion for solving complex problems.</li>
@@ -77,7 +77,7 @@ Welcome to my GitHub profile! Here's a little about me:
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
     </a>
     <a href="https://github.com/TagCoding223" style="text-decoration: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="40" alt="GitHub logo" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="52" height="40" alt="GitHub logo" />
     </a>
 </div>
 
