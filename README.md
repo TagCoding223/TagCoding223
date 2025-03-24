@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🚀 About Me
 <ul style="list-style-type: none; padding: 0;">
-    <li>🔭 I’m currently working on <strong>exciting projects</strong>.</li>
+    <li>🔭 I’m currently working on <strong>prepare-online-exam project</strong>.</li>
     <li>💬 Ask me about <strong>coding, open-source, or anything tech-related</strong>.</li>
     <li>🎓 I hold a degree in <strong>Computer Application</strong> and have a passion for solving complex problems.</li>
     <li>🌍 I love contributing to <strong>open-source projects</strong> and collaborating with developers worldwide.</li>
