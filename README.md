@@ -43,11 +43,13 @@ Welcome to my GitHub profile! Here's a little about me:
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" height="40" alt="hibernate logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visual-studio-code/visual-studio-code-original.svg" height="40" alt="visual-studio-code logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij-idea/intellij-idea-original.svg" height="40" alt="intellij idea logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ecllipse/ecllipse-original.svg" height="40" alt="ecllipse logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
 </div>
 
 ---
