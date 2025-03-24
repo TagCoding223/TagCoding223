@@ -68,18 +68,25 @@ Welcome to my GitHub profile! Here's a little about me:
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=TagCoding223&theme=radical" alt="GitHub Streak" />
 </div>
 
+
 ---
 
 ## 📫 Connect with Me
-<div>
+<div align="center">
     <a href="https://www.linkedin.com/in/vishal-chouhan-vc223/" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    </a>
+    <a href="https://github.com/TagCoding223" style="text-decoration: none;">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="GitHub logo" />
     </a>
 </div>
 
 ---
 
-<p>Thanks for stopping by! 😊</p>
+<p align="center">Thanks for visiting my profile! 😊</p>
+<p align="center">
+    <a href="https://tagcoding223.github.io/Vishal_Chouhan/">🌐 Visit My Portfolio</a>
+</p>
 
 </div>
 ```
