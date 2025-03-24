@@ -28,15 +28,15 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🌟 Stats
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=TagCoding223&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TagCoding223&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
 
 ## 📈 Contributions
 <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TagCoding223&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
